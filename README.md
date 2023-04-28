@@ -1,1 +1,1 @@
-# lms changes by ruchi
+# lms changes by ruchi  for commands on 28th reverted
